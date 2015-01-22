@@ -1,8 +1,8 @@
 :title: Sorpresas del pasado
 :date: 2014-10-25 11:00
 :category: Diego Fainstein
-:tags: fotos, recuerdos, recomendaciones
-:author: El Diego Efe
+:tags: recuerdos, recomendaciones, fotografia
+:author: Diego Fainstein
 :excerpt: Sorpresas del pasado
 :disqus_identifier: sorpresas del pasado
 
@@ -11,10 +11,10 @@ malhumor se propagan como pseudópodos del horrendo calor. Por la
 ventana irremediablemente abierta entra el ruido del tránsito y
 canciones que deben parecerle fantásticas a los pibes de la gomería.
 En esta lava de incomodidad tuve la iniciativa de aprender a usar una
-famosa extensión de Emacs (org-mode) como agenda electrónica, y la
-verdad es que todo lo bueno que había escuchado resulta ser cierto. No
-es la primera vez que uso org-mode, pero sí es la iniciación en las
-funciones de agenda.
+famosa extensión de `Emacs`_ (llamada `Org-mode`_) como agenda
+electrónica, y la verdad es que todo lo bueno que había escuchado
+resulta ser cierto. No es la primera vez que uso org-mode, pero sí es
+la iniciación en las funciones de agenda.
 
 Como tengo guardadas decenas y decenas de notas en borradores de
 Gmail, aproveché para empezar a pasarlas a org-mode. Ahí surgió el
@@ -35,11 +35,11 @@ Que lástima que sale el reflejo del vidrio y no se aprecia tan bien la
 obra de arte. Pero el milagro de la recuperación no se queda allí. El
 `buscador de imágenes de Google`_ orienta la búsqueda. Todavía me
 asombra poder encontrar distintos tamaños de la misma imagen
-esparcidas por la web. O imágenes parecidas o relacionadas. Llego así
-a descubrir que es la foto de una muestra itinerante; hay al menos un
-par de páginas (`1`_, `2`_) en las cuales nos enteramos que la obra ha
-sido realizada por Caro Reynoso, de 9 años por aquella época (pfff,
-hoy tendrá 16).
+esparcidas por la web. También imágenes parecidas o relacionadas.
+Llego así a descubrir que es la foto de una muestra itinerante; hay al
+menos un par de páginas (`1`_, `2`_) en las cuales nos enteramos que
+la obra ha sido realizada por Caro Reynoso, de 9 años por aquella
+época (pfff, hoy tendrá 16).
 
 La maravilla es también que Firefox tiene un complemento (un add-on)
 que permite hacer click derecho sobre una foto en cualquier página
@@ -76,4 +76,11 @@ inglés, para saber cómo suena.
 
 Tremendas las cosas que te traen los días de calor.
 
+---
+
+Publicado originalmente en `el sitio del autor`_
+
 .. _To Google Translate: https://addons.mozilla.org/es/firefox/addon/to-google-translate
+.. _el sitio del autor: http://eldiegoefe.github.io/
+.. _Emacs: http://es.wikipedia.org/wiki/Emacs
+.. _Org-mode: http://es.wikipedia.org/wiki/Org-mode

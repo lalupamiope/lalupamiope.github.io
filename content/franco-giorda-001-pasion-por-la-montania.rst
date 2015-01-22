@@ -1,5 +1,5 @@
 :title: Pasion por la montaña
-:date: 2015-01-01 10:00
+:date: 2015-01-07 10:00
 :category: Franco Giorda
 :tags: cronicas, viajes, reflexiones
 :author: Franco Giorda
@@ -16,7 +16,7 @@ pared rocosa más difícil del mundo (El capitán, de unos 914 metros
 verticales), ubicada en California. De no haber conocido la
 inquietante e irresistible intemperie de la altura no me hubiese
 detenido en esta nueva marca que el hombre ha batido. Acá la dirección
-de instagram de uno de los intrépidos `Tommy Caldwell`_ y una modesta
+de instagram de uno de los intrépidos (`Tommy Caldwell`_) y una modesta
 foto de mi pequeña experiencia (que no obstante cambió algo de mí).
 
 .. figure:: https://farm8.staticflickr.com/7486/16118275747_d12629853a_b.jpg
@@ -26,8 +26,6 @@ foto de mi pequeña experiencia (que no obstante cambió algo de mí).
    :alt: fitz roy
    :target: https://farm8.staticflickr.com/7486/16118275747_cdf754ec2a_o.jpg
 
-   fitz roy
-
-   Caminando por el Fitz Roy.
+   Montañistas junto al Fitz Roy.
 
 .. _Tommy Caldwell: http://instagram.com/tommycaldwell
