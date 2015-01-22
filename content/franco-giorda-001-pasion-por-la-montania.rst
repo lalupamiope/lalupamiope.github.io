@@ -1,5 +1,5 @@
 :title: Pasion por la montaña
-:date: 2015-01-07 10:00
+:date: 2015-01-20 10:00
 :category: Franco Giorda
 :tags: cronicas, viajes, reflexiones
 :author: Franco Giorda

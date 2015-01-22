@@ -33,7 +33,6 @@ SOCIAL = (('Twitter', 'http://twitter.com/LaLupaMiope'),
 
 DEFAULT_PAGINATION = 10
 
-
 # Seteos para modificar cuando pruebo el blog con un servidor en localhost
 # Los posts con fecha futura se toman como drafts
 # WITH_FUTURE_DATES = False

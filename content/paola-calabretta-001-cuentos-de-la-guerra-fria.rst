@@ -1,7 +1,7 @@
 :title: Cuentos de la guerra fría
-:date: 2015-01-02 10:00
+:date: 2015-01-19 10:00
 :category: Paola Calabretta
-:tags: historias
+:tags: historias, viajes
 :author: Paola Calabretta
 :excerpt: Cuentos de la guerra fría
 :disqus_identifier: Cuentos de la guerra fría
@@ -101,3 +101,7 @@ en la visera con la leyenda “maket” (ficticio).
 
 Y entonces sí: dieciocho días más tarde, Gagarin fue a encontrarse con
 dios y, dicen, no lo vio por ningún lado.
+
+**Publicado originalmente en el sitio de la autora:** `josephvonfraunhofer.tumblr.com`_.
+
+.. _josephvonfraunhofer.tumblr.com: http://josephvonfraunhofer.tumblr.com/

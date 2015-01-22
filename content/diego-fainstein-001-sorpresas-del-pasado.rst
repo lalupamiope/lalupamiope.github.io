@@ -1,7 +1,7 @@
 :title: Sorpresas del pasado
-:date: 2014-10-25 11:00
+:date: 2015-01-18 10:00
 :category: Diego Fainstein
-:tags: recuerdos, recomendaciones, fotografia
+:tags: recuerdos, recomendaciones
 :author: Diego Fainstein
 :excerpt: Sorpresas del pasado
 :disqus_identifier: sorpresas del pasado
@@ -76,11 +76,9 @@ inglés, para saber cómo suena.
 
 Tremendas las cosas que te traen los días de calor.
 
----
+**Publicado originalmente en el sitio del autor:** `eldiegoefe.github.io`_.
 
-Publicado originalmente en `el sitio del autor`_
-
+.. _eldiegoefe.github.io: http://eldiegoefe.github.io/
 .. _To Google Translate: https://addons.mozilla.org/es/firefox/addon/to-google-translate
-.. _el sitio del autor: http://eldiegoefe.github.io/
 .. _Emacs: http://es.wikipedia.org/wiki/Emacs
 .. _Org-mode: http://es.wikipedia.org/wiki/Org-mode
