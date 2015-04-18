@@ -15,7 +15,7 @@
 
 <meta property="og:title" content="All Categories · La Lupa Miope"/>
 <meta name="twitter:title" content="All Categories · La Lupa Miope">
-<meta property="og:url" content="http://lalupamiope.github.io/categories.html" />
+<meta property="og:url" content="./categories.html" />
 <meta property="og:description" content="All categories of the La Lupa Miope blog" />
 <meta name="twitter:description" content="All categories of the La Lupa Miope blog">
 <meta property="og:site_name" content="La Lupa Miope" />
@@ -24,12 +24,13 @@
 </title>
         <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
         <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="http://lalupamiope.github.io/theme/css/pygments.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="http://lalupamiope.github.io/theme/tipuesearch/tipuesearch.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="http://lalupamiope.github.io/theme/css/elegant.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="http://lalupamiope.github.io/theme/css/custom.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="./theme/css/pygments.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="./theme/tipuesearch/tipuesearch.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="./theme/css/elegant.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="./theme/css/custom.css" media="screen">
         <link href="http://lalupamiope.github.io/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="La Lupa Miope - Full RSS Feed" />
 
+        <link href="http://lalupamiope.github.io/feeds/blog.rss.xml" type="application/atom+xml" rel="alternate" title="La Lupa Miope - blog Category RSS Feed" />
         <link href="http://lalupamiope.github.io/feeds/diego-fainstein.rss.xml" type="application/atom+xml" rel="alternate" title="La Lupa Miope - Diego Fainstein Category RSS Feed" />
         <link href="http://lalupamiope.github.io/feeds/franco-giorda.rss.xml" type="application/atom+xml" rel="alternate" title="La Lupa Miope - Franco Giorda Category RSS Feed" />
         <link href="http://lalupamiope.github.io/feeds/paola-calabretta.rss.xml" type="application/atom+xml" rel="alternate" title="La Lupa Miope - Paola Calabretta Category RSS Feed" />
@@ -44,14 +45,14 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="http://lalupamiope.github.io/"><span class=site-name>La Lupa Miope</span></a>
+                    <a class="brand" href="./"><span class=site-name>La Lupa Miope</span></a>
                     <div class="nav-collapse collapse">
                         <ul class="nav pull-right top-menu">
-                            <li ><a href="http://lalupamiope.github.io">Home</a></li>
-                            <li  class="active"><a href="http://lalupamiope.github.io/categories.html">Autores</a></li>
-                            <li ><a href="http://lalupamiope.github.io/tags.html">Palabras Clave</a></li>
-                            <li ><a href="http://lalupamiope.github.io/archives.html">Archivo</a></li>
-                            <li><form class="navbar-search" action="http://lalupamiope.github.io/search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
+                            <li ><a href=".">Home</a></li>
+                            <li  class="active"><a href="./categories.html">Autores</a></li>
+                            <li ><a href="./tags.html">Palabras Clave</a></li>
+                            <li ><a href="./archives.html">Archivo</a></li>
+                            <li><form class="navbar-search" action="./search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
                         </ul>
                     </div>
                 </div>
@@ -63,7 +64,7 @@
                 <div class="span10">
 <div class="row-fluid">
     <header class="page-header span10 offset2">
-    <h1><a href="http://lalupamiope.github.io/categories.html">Todos los autores</a></h1>
+    <h1><a href="./categories.html">Todos los autores</a></h1>
     </header>
 </div>
 
@@ -73,6 +74,20 @@
         <div class="accordion" id="accordion2">
             <div class="accordion-group">
                 <div class="accordion-heading">
+                    <a class="accordion-toggle list-of-categories" data-toggle="collapse" data-parent="#accordion2" href="#blog-ref">
+                        blog<span>1</span>
+                    </a>
+                </div>
+                <div id="blog-ref" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul class="list-articles-category">
+                            <li><time pubdate="pubdate" datetime="2015-04-17T10:00:00-03:00">vie 17 abril 2015</time><a href="./los-garabatos-de-cabrol.html">Los garabatos de Cabrol  </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group">
+                <div class="accordion-heading">
                     <a class="accordion-toggle list-of-categories" data-toggle="collapse" data-parent="#accordion2" href="#diego-fainstein-ref">
                         Diego Fainstein<span>1</span>
                     </a>
@@ -80,7 +95,7 @@
                 <div id="diego-fainstein-ref" class="accordion-body collapse">
                     <div class="accordion-inner">
                         <ul class="list-articles-category">
-                            <li><time pubdate="pubdate" datetime="2015-01-18T10:00:00-03:00">dom 18 enero 2015</time><a href="http://lalupamiope.github.io/sorpresas-del-pasado.html">Sorpresas del pasado  </a></li>
+                            <li><time pubdate="pubdate" datetime="2015-01-18T10:00:00-03:00">dom 18 enero 2015</time><a href="./sorpresas-del-pasado.html">Sorpresas del pasado  </a></li>
                         </ul>
                     </div>
                 </div>
@@ -88,13 +103,14 @@
             <div class="accordion-group">
                 <div class="accordion-heading">
                     <a class="accordion-toggle list-of-categories" data-toggle="collapse" data-parent="#accordion2" href="#franco-giorda-ref">
-                        Franco Giorda<span>1</span>
+                        Franco Giorda<span>2</span>
                     </a>
                 </div>
                 <div id="franco-giorda-ref" class="accordion-body collapse">
                     <div class="accordion-inner">
                         <ul class="list-articles-category">
-                            <li><time pubdate="pubdate" datetime="2015-01-20T10:00:00-03:00">mar 20 enero 2015</time><a href="http://lalupamiope.github.io/pasion-por-la-montana.html">Pasion por la montaña  </a></li>
+                            <li><time pubdate="pubdate" datetime="2015-01-26T10:00:00-03:00">lun 26 enero 2015</time><a href="./eusebi.html">Eusebi  </a></li>
+                            <li><time pubdate="pubdate" datetime="2015-01-20T10:00:00-03:00">mar 20 enero 2015</time><a href="./pasion-por-la-montana.html">Pasion por la montaña  </a></li>
                         </ul>
                     </div>
                 </div>
@@ -108,7 +124,7 @@
                 <div id="paola-calabretta-ref" class="accordion-body collapse">
                     <div class="accordion-inner">
                         <ul class="list-articles-category">
-                            <li><time pubdate="pubdate" datetime="2015-01-19T10:00:00-03:00">lun 19 enero 2015</time><a href="http://lalupamiope.github.io/cuentos-de-la-guerra-fria.html">Cuentos de la guerra fría  </a></li>
+                            <li><time pubdate="pubdate" datetime="2015-01-19T10:00:00-03:00">lun 19 enero 2015</time><a href="./cuentos-de-la-guerra-fria.html">Cuentos de la guerra fría  </a></li>
                         </ul>
                     </div>
                 </div>
