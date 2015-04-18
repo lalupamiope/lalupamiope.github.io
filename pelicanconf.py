@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 10
 # Los posts con fecha futura se toman como drafts
 # WITH_FUTURE_DATES = False
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 THEME = "../pelican-elegant-lalupamiope"
 
