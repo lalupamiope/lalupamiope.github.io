@@ -37,9 +37,9 @@ DEFAULT_PAGINATION = 10
 # Los posts con fecha futura se toman como drafts
 # WITH_FUTURE_DATES = False
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
-THEME = "/home/eldiegoefe/documentos/pelican-themes-elegant/pelican-elegant-lalupamiope"
+THEME = "../pelican-elegant-lalupamiope"
 
 # --------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ DISQUS_SITENAME = "lalupamiope"
 
 # Instrucciones para la instalacion del plugin para videos de youtube
 # en https://github.com/kura/pelican_youtube
-PLUGIN_PATHS = ['/home/eldiegoefe/documentos/pelican-plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 
 LOAD_CONTENT_CACHE = False
 
