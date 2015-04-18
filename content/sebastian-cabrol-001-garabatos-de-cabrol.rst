@@ -1,6 +1,6 @@
 :title: Los garabatos de Cabrol
 :date: 2015-04-17 10:00
-:category: blog
+:category: Sebastian Cabrol
 :tags: comic, historieta, arte, genios
 :author: Sebastian Cabrol
 :excerpt: Los garabatos de Cabrol
